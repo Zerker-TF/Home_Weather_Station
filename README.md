@@ -6,8 +6,11 @@ The project can be tested on a breadboard.
 Parts used:
 
 -ESP8266 NODEMCU
+
 -BMP280 Temperature & Pressure sensor
+
 -HTU21D Temperature & Humidity sensor 
+
 
 ESP8266 Arduino library -> http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
