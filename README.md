@@ -2,12 +2,15 @@
 Simple ESP8266 project to measure indoors temperature, humidity and atmospheric pressure to later use said values in other projects like automated AC's.
 
 The project can be tested on a breadboard.
+
 Parts used:
+
 -ESP8266 NODEMCU
 -BMP280 Temperature & Pressure sensor
 -HTU21D Temperature & Humidity sensor 
 
 ESP8266 Arduino library -> http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
 Blynk was used to print the values obtained in both web and mobile with simple gauges.
 
 Web
