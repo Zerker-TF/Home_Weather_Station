@@ -16,6 +16,15 @@ ESP8266 Arduino library -> http://arduino.esp8266.com/stable/package_esp8266com_
 
 Blynk was used to print the values obtained in both web and mobile with simple gauges.
 
+Connection layout
+| ESP8266  | HTU21D & BMP280|
+| ------------- | ------------- |
+| 3.3V        | VIN  |
+| GPIO4 (D2)  | SDA  |
+| GPIO5 (D1)  | SCL  |
+| GND         | GND  |
+
+
 Web
 
 ![photo_2024-02-28_23-53-03](https://github.com/Zerker-TF/Home_Weather_Station/assets/84744670/6d02f6c5-4bd4-4554-9337-ac9b79cd7d47)
